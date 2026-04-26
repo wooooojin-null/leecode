@@ -1,1 +1,3 @@
-print("q")
+nums = [1,2,3]
+
+print(nums.count(4))
